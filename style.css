@@ -79,17 +79,17 @@ text-align: center;
 }
 
 .texto .botões button.n-overlay{
-    color: black;
+    color: white;
     text-decoration: none;}
     
 .texto .botões button.n-overlay:hover{
-    color: black;
+    color: white;
     background-color: white;
     text-decoration: none;
 }
 
 .texto .botões.overlay{
-    color: black;
+    color: white;
     text-decoration: none;}
     
 comunicados .title{
