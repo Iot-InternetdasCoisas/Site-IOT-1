@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap')
+
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif; text-decoration: none;}
+
+body{font-size: 100%; 
+    items-align: center; 
+    background-image: linear-gradient(to right top, #6a5acd, #5a7be1, #5699ee, #67b5f6, #87cefa);
+    background-size: 3000000px; }
+    
+.header{
+align-items: center;
+text-align: center;
+}
+
+.barra{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    letter-spacing: 2px;
+    margin-left: 10px;    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-weight: 410;   }
+    
+
+
+main{
+  text-align: center;
+  align-items: center;
+}
+
+.background{
+    height: 520px;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    }
+
+.texto .título{
+color: white;
+font-size: 30px;
+font-weight: 600;
+text-align: center;
+}
+
+.texto .subtítulo{
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.texto .botões{
+    margin-top: 10px;
+    text-align: center;
+    displey: flex;
+    flex-direction: row;
+    justify-content: space-arround;
+}
+.texto .botões button{
+    height: 40px;
+    width:150px;
+    border-radius: 3px;
+    border: 0;
+    margin: 0 5px;
+    font-size: 20px;
+    font-weight: 100px;
+    padding: 0 10px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.3s;
+}
+
+.texto .botões button.n-overlay{
+    color: black;
+    
+.texto .botões button.n-overlay:hover{
+    color: black;
+    background-color: white;
+}
+
+.texto .botões.overlay{
+    color: black;
+    
+    
+comunicados .title{
+    height: 200px;
+}
+}
+
+.horario img{
+    max-width:100px; 
+    max-height:100px; 
+    text-align: center;
+    object-fit: 100px;
+    align-items: center;
+}
