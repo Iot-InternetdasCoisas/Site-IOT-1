@@ -96,11 +96,3 @@ comunicados .title{
     height: 200px;
 }
 
-
-.horario img{
-    max-width:100px; 
-    max-height:100px; 
-    text-align: center;
-    object-fit: 100px;
-    align-items: center;
-}
