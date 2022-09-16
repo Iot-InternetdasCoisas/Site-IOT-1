@@ -79,7 +79,7 @@ text-align: center;
 
 .texto .botões button.n-overlay{
     color: black;
-    text-decoration: none;
+    text-decoration: none;}
     
 .texto .botões button.n-overlay:hover{
     color: black;
@@ -89,12 +89,12 @@ text-align: center;
 
 .texto .botões.overlay{
     color: black;
-    text-decoration: none;
+    text-decoration: none;}
     
 comunicados .title{
     height: 200px;
 }
-}
+
 
 .horario img{
     max-width:100px; 
